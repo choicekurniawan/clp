@@ -1,8 +1,9 @@
 {
+ "start_url": "index.html?installed=true",
+ "background_color": "#FFFFFF",
+ "name": "Caspian CitraLand",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "name": "Caspian CitraLand",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "start_url": "index.html?installed=true"
+ ]
 }
