@@ -1,7 +1,6 @@
 {
  "display": "fullscreen",
- "background_color": "#FFFFFF",
- "name": "Caspian CitraLand",
+ "name": "LEXINGTON",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#FFFFFF",
  "start_url": "index.html?installed=true",
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
